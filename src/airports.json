@@ -1,0 +1,2658 @@
+{
+  "airports": [
+    {
+      "code": "IST",
+      "name": "İstanbul",
+      "port": {
+        "code": "IST",
+        "name": "İSTANBUL",
+        "data": {}
+      },
+      "city": {
+        "code": "IST",
+        "name": "İstanbul",
+        "data": {
+          "predictions": [
+            "ISTANBUL",
+            "ISTAMBUL",
+            "Istanbul"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {}
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [
+        "IST",
+        "SAW"
+      ],
+      "coordinate": {
+        "lat": 41.260278,
+        "lon": 28.741944
+      },
+      "type": "city",
+      "multi": true
+    },
+    {
+      "code": "ADA",
+      "name": "Adana Havalimanı",
+      "port": {
+        "code": "ADA",
+        "name": "Adana Havalimanı",
+        "data": {
+          "predictions": [
+            "Adana Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "ADA",
+        "name": "Adana",
+        "data": {
+          "predictions": [
+            "EDENE",
+            "Adana"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 36.982222,
+        "lon": 35.280278
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "ADF",
+      "name": "Adıyaman Havalimanı",
+      "port": {
+        "code": "ADF",
+        "name": "Adıyaman Havalimanı",
+        "data": {
+          "predictions": [
+            "Adiyaman Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "ADF",
+        "name": "Adıyaman",
+        "data": {
+          "predictions": [
+            "ADIYAMAN",
+            "ADIYEMAN",
+            "EDIYAMAN",
+            "Adiyaman"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.731369,
+        "lon": 38.468936
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "AJI",
+      "name": "Ağrı Havalimanı",
+      "port": {
+        "code": "AJI",
+        "name": "Ağrı Havalimanı",
+        "data": {
+          "predictions": [
+            "Agri Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "AJI",
+        "name": "Ağrı",
+        "data": {
+          "predictions": [
+            "AGRI",
+            "AGRI",
+            "Agrı"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 39.65,
+        "lon": 43.033333
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "MZH",
+      "name": "Amasya Merzifon Havalimanı",
+      "port": {
+        "code": "MZH",
+        "name": "Amasya Merzifon Havalimanı",
+        "data": {
+          "predictions": [
+            "Amasya Merzifon Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "MZH",
+        "name": "Amasya",
+        "data": {
+          "predictions": [
+            "MERZIFON",
+            "Amasya"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.829444,
+        "lon": 35.521944
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "ESB",
+      "name": "Ankara Esenboğa Havalimanı",
+      "port": {
+        "code": "ESB",
+        "name": "Ankara Esenboğa Havalimanı",
+        "data": {
+          "predictions": [
+            "Ankara Esenboga Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "ANK",
+        "name": "Ankara",
+        "data": {
+          "predictions": [
+            "ANGARA",
+            "Ankara"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.133333,
+        "lon": 33
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "AYT",
+      "name": "Antalya Havalimanı",
+      "port": {
+        "code": "AYT",
+        "name": "Antalya Havalimanı",
+        "data": {
+          "predictions": [
+            "Antalya Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "AYT",
+        "name": "Antalya",
+        "data": {
+          "predictions": [
+            "ANTAYLA",
+            "Antalya"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 36.916667,
+        "lon": 30.8
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "BAL",
+      "name": "Batman Havalimanı",
+      "port": {
+        "code": "BAL",
+        "name": "Batman Havalimanı",
+        "data": {
+          "predictions": [
+            "Batman Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "BAL",
+        "name": "Batman",
+        "data": {
+          "predictions": [
+            "AMASYA",
+            "Batman"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.866667,
+        "lon": 41.116667
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "BGG",
+      "name": "Bingöl Havalimanı",
+      "port": {
+        "code": "BGG",
+        "name": "Bingöl Havalimanı",
+        "data": {
+          "predictions": [
+            "Bingol Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "BGG",
+        "name": "Bingöl",
+        "data": {
+          "predictions": [
+            "BINGOL",
+            "BINGÖL",
+            "Bingol"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 38.885087,
+        "lon": 40.495605
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "YEI",
+      "name": "Bursa Yenişehir Havalimanı",
+      "port": {
+        "code": "YEI",
+        "name": "Bursa Yenişehir Havalimanı",
+        "data": {
+          "predictions": [
+            "Bursa Yenisehir Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "YEI",
+        "name": "Bursa",
+        "data": {
+          "predictions": [
+            "Bursa"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.255278,
+        "lon": 29.5625
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "CKZ",
+      "name": "Çanakkale Havalimanı",
+      "port": {
+        "code": "CKZ",
+        "name": "Çanakkale Havalimanı",
+        "data": {
+          "predictions": [
+            "Canakkale Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "CKZ",
+        "name": "Çanakkale",
+        "data": {
+          "predictions": [
+            "ÇANAKGALE",
+            "Canakkale"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.137722,
+        "lon": 26.426777
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "DLM",
+      "name": "Dalaman Havalimanı",
+      "port": {
+        "code": "DLM",
+        "name": "Dalaman Havalimanı",
+        "data": {
+          "predictions": [
+            "Dalaman Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "DLM",
+        "name": "Muğla-Dalaman",
+        "data": {
+          "predictions": [
+            "DALMAN",
+            "MUGLA",
+            "MUULA",
+            "DALAMAM",
+            "Muğla-Dalaman"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 36.716667,
+        "lon": 28.783333
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "DNZ",
+      "name": "Denizli Çardak Havalimanı",
+      "port": {
+        "code": "DNZ",
+        "name": "Denizli Çardak Havalimanı",
+        "data": {
+          "predictions": [
+            "CARDAK",
+            "Denizli Cardak Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "DNZ",
+        "name": "Denizli",
+        "data": {
+          "predictions": [
+            "DENIZLI",
+            "Denizli"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.787222,
+        "lon": 29.703333
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "DIY",
+      "name": "Diyarbakır Havalimanı",
+      "port": {
+        "code": "DIY",
+        "name": "Diyarbakır Havalimanı",
+        "data": {
+          "predictions": [
+            "Diyarbakir Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "DIY",
+        "name": "Diyarbakır",
+        "data": {
+          "predictions": [
+            "DIYARBEKIR",
+            "DIYERBEKIR",
+            "DIGERBAKIR",
+            "DIGERBEKIR",
+            "DIARBAKIR",
+            "Diyarbakir"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.9,
+        "lon": 40.2
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "EZS",
+      "name": "Elazığ Havalimanı",
+      "port": {
+        "code": "EZS",
+        "name": "Elazığ Havalimanı",
+        "data": {
+          "predictions": [
+            "Elazig Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "EZS",
+        "name": "Elazığ",
+        "data": {
+          "predictions": [
+            "ELAZIZ",
+            "ELAZIG",
+            "ELAZIG",
+            "Elazig"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 38.6,
+        "lon": 39.283333
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "ERC",
+      "name": "Erzincan Yıldırım Akbulut Havalimanı",
+      "port": {
+        "code": "ERC",
+        "name": "Erzincan Yıldırım Akbulut Havalimanı",
+        "data": {
+          "predictions": [
+            "Erzincan Yıldırım Akbulut Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "ERC",
+        "name": "Erzincan",
+        "data": {
+          "predictions": [
+            "ERZINCAN",
+            "EZRINCAN",
+            "Erzincan"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 39.716667,
+        "lon": 39.516667
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "ERZ",
+      "name": "Erzurum Havalimanı",
+      "port": {
+        "code": "ERZ",
+        "name": "Erzurum Havalimanı",
+        "data": {
+          "predictions": [
+            "Erzurum Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "ERZ",
+        "name": "Erzurum",
+        "data": {
+          "predictions": [
+            "ERZURUM",
+            "Erzurum"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 39.956389,
+        "lon": 41.170278
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "GZT",
+      "name": "Gaziantep Havalimanı",
+      "port": {
+        "code": "GZT",
+        "name": "Gaziantep Havalimanı",
+        "data": {
+          "predictions": [
+            "Gaziantep Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "GZT",
+        "name": "Gaziantep",
+        "data": {
+          "predictions": [
+            "GAZI ANTEP",
+            "GAZIANTEP",
+            "GAZIANTEB",
+            "Gaziantep"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.066667,
+        "lon": 37.333333
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "GZP",
+      "name": "Gazipaşa Alanya Havalimanı",
+      "port": {
+        "code": "GZP",
+        "name": "Gazipaşa Alanya Havalimanı",
+        "data": {
+          "predictions": [
+            "Gazipasa Alanya Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "GZP",
+        "name": "Alanya",
+        "data": {
+          "predictions": [
+            "ALENYA",
+            "ELANYA",
+            "Alanya"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 36.299167,
+        "lon": 32.300278
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "AOE",
+      "name": "Hasan Polatkan Havalimanı",
+      "port": {
+        "code": "AOE",
+        "name": "Hasan Polatkan Havalimanı",
+        "data": {
+          "predictions": [
+            "Hasan Polatkan Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "ESK",
+        "name": "Eskişehir",
+        "data": {
+          "predictions": [
+            "ESKISEHIR",
+            "ESKISEHIR",
+            "Eskisehir"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 39.811667,
+        "lon": 30.528611
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "HTY",
+      "name": "Hatay Havalimanı",
+      "port": {
+        "code": "HTY",
+        "name": "Hatay Havalimanı",
+        "data": {
+          "predictions": [
+            "Hatay Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "HTY",
+        "name": "Hatay",
+        "data": {
+          "predictions": [
+            "HAYAT",
+            "Hatay"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 36.2146,
+        "lon": 36.1656
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "IGD",
+      "name": "Iğdır Şehit Bülent Aydın Havalimanı",
+      "port": {
+        "code": "IGD",
+        "name": "Iğdır Şehit Bülent Aydın Havalimanı",
+        "data": {
+          "predictions": [
+            "Igdir Sehit Bulent Aydin Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "IGD",
+        "name": "Iğdır",
+        "data": {
+          "predictions": [
+            "IGDIR",
+            "IGDIR",
+            "Igdir"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 39.65,
+        "lon": 44.033333
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "ISE",
+      "name": "Isparta Süleyman Demirel Havalimanı",
+      "port": {
+        "code": "ISE",
+        "name": "Isparta Süleyman Demirel Havalimanı",
+        "data": {
+          "predictions": [
+            "Isparta Suleyman Demirel Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "ISE",
+        "name": "Isparta",
+        "data": {
+          "predictions": [
+            "SPARTA",
+            "ISPARTA ",
+            "ISBARTA ",
+            "Isparta"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.8554001,
+        "lon": 30.3684006
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "IST",
+      "name": "İstanbul Havalimanı",
+      "port": {
+        "code": "IST",
+        "name": "İstanbul Havalimanı",
+        "data": {
+          "predictions": [
+            "ADADURK",
+            "ATATRK",
+            " ATATURK",
+            " ISL",
+            "Istanbul Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "IST",
+        "name": "İstanbul",
+        "data": {
+          "predictions": [
+            "ISTANBUL",
+            "ISTAMBUL",
+            "Istanbul"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 41.260278,
+        "lon": 28.741944
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "ADB",
+      "name": "İzmir Adnan Menderes Havalimanı",
+      "port": {
+        "code": "ADB",
+        "name": "İzmir Adnan Menderes Havalimanı",
+        "data": {
+          "predictions": [
+            "Izmir Adnan Menderes Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "IZM",
+        "name": "İzmir",
+        "data": {
+          "predictions": [
+            "IZMIR",
+            "SMYRNA",
+            "Izmir"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 38.2925,
+        "lon": 27.156944
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "KCM",
+      "name": "Kahramanmaraş Havalimanı",
+      "port": {
+        "code": "KCM",
+        "name": "Kahramanmaraş Havalimanı",
+        "data": {
+          "predictions": [
+            "Kahramanmaras Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "KCM",
+        "name": "Kahramanmaraş",
+        "data": {
+          "predictions": [
+            "MARAS",
+            "KARHAMAN MARAS",
+            "Kahramanmaras"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.538889,
+        "lon": 36.953333
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "KSY",
+      "name": "Kars Harakani Havalimanı",
+      "port": {
+        "code": "KSY",
+        "name": "Kars Harakani Havalimanı",
+        "data": {
+          "predictions": [
+            "Kars Harakani Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "KSY",
+        "name": "Kars",
+        "data": {
+          "predictions": [
+            "KASR",
+            "Kars"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.551667,
+        "lon": 43.085833
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "KFS",
+      "name": "Kastamonu Havalimanı",
+      "port": {
+        "code": "KFS",
+        "name": "Kastamonu Havalimanı",
+        "data": {
+          "predictions": [
+            "Kastamonu Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "KFS",
+        "name": "Kastamonu",
+        "data": {
+          "predictions": [
+            "KASDAMONU",
+            "GASDAMONU ",
+            "KASTOMONU",
+            "Kastamonu"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 41.38871,
+        "lon": 33.78273
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "ASR",
+      "name": "Kayseri Havalimanı",
+      "port": {
+        "code": "ASR",
+        "name": "Kayseri Havalimanı",
+        "data": {
+          "predictions": [
+            "Kayseri Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "ASR",
+        "name": "Kayseri",
+        "data": {
+          "predictions": [
+            "KAYSERI",
+            "KASYERI",
+            "Kayseri"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 38.7,
+        "lon": 35.5
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "KCO",
+      "name": "Kocaeli Cengiz Topel Havalimanı",
+      "port": {
+        "code": "KCO",
+        "name": "Kocaeli Cengiz Topel Havalimanı",
+        "data": {
+          "predictions": [
+            "Kocaeli Cengiz Topel Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "KCO",
+        "name": "Kocaeli",
+        "data": {
+          "predictions": [
+            "KOCA ELI",
+            "KOCA ELI",
+            "IZMIT",
+            "IZMIT",
+            "Kocaeli"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.916667,
+        "lon": 29.916667
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "EDO",
+      "name": "Koca Seyit Havalimanı",
+      "port": {
+        "code": "EDO",
+        "name": "Koca Seyit Havalimanı",
+        "data": {
+          "predictions": [
+            "ERDEMIT",
+            "KÖRFES",
+            "Koca Seyit Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "EDO",
+        "name": "Balıkesir - Edremit",
+        "data": {
+          "predictions": [
+            "EDO",
+            "Balikesir - Edremit"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 39.554722,
+        "lon": 27.013889
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "KYA",
+      "name": "Konya Havalimanı",
+      "port": {
+        "code": "KYA",
+        "name": "Konya Havalimanı",
+        "data": {
+          "predictions": [
+            "Konya Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "KYA",
+        "name": "Konya",
+        "data": {
+          "predictions": [
+            "GONYA",
+            "KOYNA",
+            "Konya"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.983333,
+        "lon": 32.566667
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "MLX",
+      "name": "Malatya Havalimanı",
+      "port": {
+        "code": "MLX",
+        "name": "Malatya Havalimanı",
+        "data": {
+          "predictions": [
+            "Malatya Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "MLX",
+        "name": "Malatya",
+        "data": {
+          "predictions": [
+            "MALATYA",
+            "Malatya"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 38.35,
+        "lon": 38.25
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "MQM",
+      "name": "Mardin Havalimanı",
+      "port": {
+        "code": "MQM",
+        "name": "Mardin Havalimanı",
+        "data": {
+          "predictions": [
+            "Mardin Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "MQM",
+        "name": "Mardin",
+        "data": {
+          "predictions": [
+            "MARDIN",
+            "Mardin"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.223336,
+        "lon": 40.631667
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "BJV",
+      "name": "Milas-Bodrum Havalimanı",
+      "port": {
+        "code": "BJV",
+        "name": "Milas-Bodrum Havalimanı",
+        "data": {
+          "predictions": [
+            "Milas-Bodrum Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "BJV",
+        "name": "Muğla-Bodrum",
+        "data": {
+          "predictions": [
+            "Muğla-Bodrum"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.250556,
+        "lon": 27.664444
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "MSR",
+      "name": "Muş Havalimanı",
+      "port": {
+        "code": "MSR",
+        "name": "Muş Havalimanı",
+        "data": {
+          "predictions": [
+            "Mus Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "MSR",
+        "name": "Muş",
+        "data": {
+          "predictions": [
+            "MUS",
+            "Mus"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 38.747769,
+        "lon": 41.661236
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "NAV",
+      "name": "Nevşehir Kapadokya Havalimanı",
+      "port": {
+        "code": "NAV",
+        "name": "Nevşehir Kapadokya Havalimanı",
+        "data": {
+          "predictions": [
+            "Nevsehir Kapadokya Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "NAV",
+        "name": "Nevşehir",
+        "data": {
+          "predictions": [
+            "NEVSEHIR",
+            "NEVSEHIR",
+            "Nevsehir"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 38.771867,
+        "lon": 34.53455
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "OGU",
+      "name": "Ordu-Giresun Havalimanı",
+      "port": {
+        "code": "OGU",
+        "name": "Ordu-Giresun Havalimanı",
+        "data": {
+          "predictions": [
+            "Ordu-Giresun Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "OGU",
+        "name": "Ordu-Giresun",
+        "data": {
+          "predictions": [
+            "ORDU GIRESUN",
+            "GIRESUN",
+            "Ordu-Giresun"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.964863,
+        "lon": 38.08048
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "SAW",
+      "name": "Sabiha Gökçen Havalimanı",
+      "port": {
+        "code": "SAW",
+        "name": "Sabiha Gökçen Havalimanı",
+        "data": {
+          "predictions": [
+            "SABIHA GÖKÇEN",
+            "SABIHA GOKÇEN",
+            "Sabiha Gokcen Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "IST",
+        "name": "İstanbul",
+        "data": {
+          "predictions": [
+            "ISTANBUL",
+            "ISTAMBUL",
+            "Istanbul"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.898611,
+        "lon": 29.309167
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "SZF",
+      "name": "Samsun Çarşamba Havalimanı",
+      "port": {
+        "code": "SZF",
+        "name": "Samsun Çarşamba Havalimanı",
+        "data": {
+          "predictions": [
+            "Samsun Carsamba Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "SZF",
+        "name": "Samsun",
+        "data": {
+          "predictions": [
+            "Samsun"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 41.25,
+        "lon": 36.333333
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "SXZ",
+      "name": "Siirt Havalimanı",
+      "port": {
+        "code": "SXZ",
+        "name": "Siirt Havalimanı",
+        "data": {
+          "predictions": [
+            "Siirt Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "SXZ",
+        "name": "Siirt",
+        "data": {
+          "predictions": [
+            "SIIRT",
+            "SIRT",
+            "SIRT",
+            "SIYIRT",
+            "Siirt"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.833333,
+        "lon": 42.166667
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "NOP",
+      "name": "Sinop Havalimanı",
+      "port": {
+        "code": "NOP",
+        "name": "Sinop Havalimanı",
+        "data": {
+          "predictions": [
+            "Sinop Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "NOP",
+        "name": "Sinop",
+        "data": {
+          "predictions": [
+            "SINOP",
+            "SINOB",
+            "Sinop"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 42.019006,
+        "lon": 35.079192
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "VAS",
+      "name": "Sivas Nuri Demirağ Havalimanı",
+      "port": {
+        "code": "VAS",
+        "name": "Sivas Nuri Demirağ Havalimanı",
+        "data": {
+          "predictions": [
+            "Sivas Nuri Demirag Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "VAS",
+        "name": "Sivas",
+        "data": {
+          "predictions": [
+            "SIVAS",
+            "Sivas"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 39.766667,
+        "lon": 37.016667
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "GNY",
+      "name": "Şanlıurfa GAP Havalimanı",
+      "port": {
+        "code": "GNY",
+        "name": "Şanlıurfa GAP Havalimanı",
+        "data": {
+          "predictions": [
+            "Sanliurfa GAP Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "SFQ",
+        "name": "Şanlıurfa",
+        "data": {
+          "predictions": [
+            "SANLI URFA",
+            "URFA",
+            "SANLIURFA",
+            "Sanliurfa"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.09917,
+        "lon": 38.84015
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "NKT",
+      "name": "Şırnak Şerafettin Elçi Havalimanı",
+      "port": {
+        "code": "NKT",
+        "name": "Şırnak Şerafettin Elçi Havalimanı",
+        "data": {
+          "predictions": [
+            "Sirnak Serafettin Elci Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "NKT",
+        "name": "Şırnak",
+        "data": {
+          "predictions": [
+            "SIRNAK",
+            "SIRNAK",
+            "SIRNAK",
+            "Sirnak"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.36374,
+        "lon": 42.059449
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "TJK",
+      "name": "Tokat Havalimanı",
+      "port": {
+        "code": "TJK",
+        "name": "Tokat Havalimanı",
+        "data": {
+          "predictions": [
+            "Tokat Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "TJK",
+        "name": "Tokat",
+        "data": {
+          "predictions": [
+            "TJK",
+            "Tokat"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.32167,
+        "lon": 36.38022
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "TZX",
+      "name": "Trabzon Havalimanı",
+      "port": {
+        "code": "TZX",
+        "name": "Trabzon Havalimanı",
+        "data": {
+          "predictions": [
+            "Trabzon Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "TZX",
+        "name": "Trabzon",
+        "data": {
+          "predictions": [
+            "TIRABZON",
+            "TRABSON",
+            "TRAZBON",
+            "TIRABZON",
+            "Trabzon"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 40.916667,
+        "lon": 39.833333
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "USQ",
+      "name": "Uşak Havalimanı",
+      "port": {
+        "code": "USQ",
+        "name": "Uşak Havalimanı",
+        "data": {
+          "predictions": [
+            "Usak Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "USQ",
+        "name": "Uşak",
+        "data": {
+          "predictions": [
+            "USAK",
+            "USSAK",
+            "USSAK",
+            "USAG",
+            "KUTAHYA",
+            "AFYON",
+            "USAK",
+            "USAK",
+            "Usak"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 38.678611,
+        "lon": 29.471667
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "VAN",
+      "name": "Van Ferit Melen Havalimanı",
+      "port": {
+        "code": "VAN",
+        "name": "Van Ferit Melen Havalimanı",
+        "data": {
+          "predictions": [
+            "Van Ferit Melen Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "VAN",
+        "name": "Van",
+        "data": {
+          "predictions": [
+            "VAN",
+            "Van"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 38.45,
+        "lon": 43.316667
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "YKO",
+      "name": "Yüksekova Havalimanı",
+      "port": {
+        "code": "YKO",
+        "name": "Yüksekova Havalimanı",
+        "data": {
+          "predictions": [
+            "Yüksekova Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "YKO",
+        "name": "Hakkari",
+        "data": {
+          "predictions": [
+            "HAKKARI",
+            "HAKARI",
+            "HAKARI",
+            "Hakkari"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 37.576351,
+        "lon": 43.736894
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "KZR",
+      "name": "Zafer Bölgesel Havalimanı",
+      "port": {
+        "code": "KZR",
+        "name": "Zafer Bölgesel Havalimanı",
+        "data": {
+          "predictions": [
+            "Zafer Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "KZR",
+        "name": "Kütahya",
+        "data": {
+          "predictions": [
+            "KUTAHYA",
+            "AFYON",
+            "USAK",
+            "USAK",
+            "Kutahya"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 39.426708,
+        "lon": 30.016872
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "ONQ",
+      "name": "Zonguldak Havalimanı",
+      "port": {
+        "code": "ONQ",
+        "name": "Zonguldak Havalimanı",
+        "data": {
+          "predictions": [
+            "Zonguldak Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "ONQ",
+        "name": "Zonguldak",
+        "data": {
+          "predictions": [
+            "Zonguldak"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": true,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 41.506818,
+        "lon": 32.089777
+      },
+      "type": "port",
+      "multi": false
+    },
+    {
+      "code": "RZV",
+      "name": "Rize Artvin Havalimanı",
+      "port": {
+        "code": "RZV",
+        "name": "Rize Artvin Havalimanı",
+        "data": {
+          "predictions": [
+            "Rize Artvin Airport"
+          ]
+        }
+      },
+      "city": {
+        "code": "RZV",
+        "name": "Rize",
+        "data": {
+          "predictions": [
+            "Rize"
+          ]
+        }
+      },
+      "country": {
+        "code": "TR",
+        "name": "Türkiye",
+        "data": {
+          "predictions": [
+            "Türkiye"
+          ]
+        }
+      },
+      "region": {
+        "code": "EU",
+        "name": "",
+        "data": {}
+      },
+      "domestic": true,
+      "awardTicket": true,
+      "starAwardTicket": false,
+      "hideInBooker": false,
+      "spaOrSpaArrival": false,
+      "ports": [],
+      "coordinate": {
+        "lat": 41.17459,
+        "lon": 40.84518
+      },
+      "type": "port",
+      "multi": false
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+h1.header-main {
+  margin: 0;
+  color: white;
+  font-weight: 100;
+}
+
+h2 {
+  margin-top: 0;
+  color: white;
+  font-weight: 100;
+}
+
+button {
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.autocomp-noborder input {
+  border-radius: 0;
+}
+
+.radio-label {
+  color: #96979A;
+  font-size: 14px;
+}
+
+.passenger-info {
+  color: #96979A;
+  font-size: 18px;
+  padding: 10px 0px;
+}
+
+.main-header {
+  color: white;
+  margin: 2rem 3rem 0 3rem;
+  display:block;
+  border-bottom:0.5px ridge;
+  font-weight: bold;
+}
+
+.flight-miniheader {
+  display: inline-block;
+  padding: 7px 44px 5px;
+  background-color: #E81932;
+  color: #fff;
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 1;
+  vertical-align: top;
+  font-weight: bold;
+}
+
+.date-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #343a40;
+  font-size: 20px;
+  color: white;
+}
+
+.passenger-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 0.5rem;
+  /* padding-left: 2rem;
+  padding-right: 2rem; */
+  background: #343a40;
+  color: white;
+  position: relative;
+}
+
+.passenger-count {
+  position: absolute;
+  font-size: larger;
+  top: 5px;
+  right: 5px;
+}
+
+button.passenger-counter {
+  color: #96979A;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.button-show {
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+  height: 4rem;
+  display: flex;
+}
+
+.button-show button {
+  border-radius: 0;
+}
+
+.passenger-icon {
+  color: rgb(124, 132, 140);
+  display: flex;
+  align-self: end;
+  height: 30px;
+  width: 30px;
+}

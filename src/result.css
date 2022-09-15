@@ -1,0 +1,40 @@
+.result-main-container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.result-main-header {
+    color: #063048;
+    margin: 2rem 3rem 0 3rem;
+    display:block;
+    border-bottom:0.5px ridge;
+    font-weight: bold;
+  }
+
+.result-header{
+    display: flex;
+    border-bottom: ridge;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    border-width: thin;
+}
+
+.result-amount {
+    float: right;
+    display: inline-flex;
+    font-size: 30px;
+    font-weight: 400;
+    color: #326fd1;
+}
+
+.result-backbutton {
+    float: right;
+    display: inline-flex;
+    background-color:  #E81932;
+    color: white;
+    margin-top: 1rem;
+    padding: 7px 20px;
+}
